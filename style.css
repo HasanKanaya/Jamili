@@ -1,0 +1,25 @@
+body {
+  background-color: lightblue;
+}
+
+.shape .enter {
+  margin: 0 auto;
+  width: fit-content;
+}
+
+.shape .enter input {
+  padding: 0px 15px;
+}
+
+.shape .values {
+  margin: 0 auto;
+  width: 275px;
+  border-radius: 10px;
+  border: 2px solid black;
+}
+
+.shape .values .piece {
+  color: black;
+  border-bottom: 1px solid black;
+}
+/*# sourceMappingURL=style.css.map */
